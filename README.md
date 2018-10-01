@@ -9,4 +9,5 @@ Append the kvk id to the url as a parameter and the script will call your server
 ## Files
 * 'default' is the nginx configuration file for your node.js server
 * 'kvk-autocomplete-node.js' is the file for your node.js server
-* 'kvk-autocomplete.html' is the client-side code
+* 'kvk-autocomplete.js' is the client-side script
+* 'kvk-autocomplete.html' shows where and how to insert the script on your html file
